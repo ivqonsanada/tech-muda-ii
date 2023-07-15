@@ -41,3 +41,8 @@ src: ./pages/0-intro.md
 transition: fade-out
 src: ./pages/0.1-intermezzo.md
 ---
+
+---
+transition: fade-out
+src: ./pages/1-version-control.md
+---
