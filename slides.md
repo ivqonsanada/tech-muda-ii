@@ -46,3 +46,43 @@ src: ./pages/0.1-intermezzo.md
 transition: fade-out
 src: ./pages/1-version-control.md
 ---
+
+---
+transition: fade-out
+src: ./pages/2-monitoring.md
+---
+
+---
+transition: fade-out
+src: ./pages/3-performance.md
+---
+
+---
+transition: fade-out
+src: ./pages/4-seo.md
+---
+
+---
+transition: fade-out
+src: ./pages/5-pwa.md
+---
+
+---
+transition: fade-out
+src: ./pages/6-web-security.md
+---
+
+---
+transition: fade-out
+src: ./pages/7-deployment.md
+---
+
+---
+transition: fade-out
+src: ./pages/8-javascript-fatigue.md
+---
+
+---
+transition: fade-out
+src: ./pages/9-resource.md
+---
